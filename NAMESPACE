@@ -1,0 +1,4 @@
+useDynLib(anRpackage)
+importFrom(Rcpp, evalCpp)
+export("convolveCpp","fibonacci")
+import("Rcpp")

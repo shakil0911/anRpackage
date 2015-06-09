@@ -1,0 +1,11 @@
+Package: anRpackage
+Type: Package
+Title: Calculation of fibonacci series and Vector Elements multiplication
+Version: 1.0
+Date: 2015-06-09
+Author: Shakil Ahmed
+Maintainer: shakil <shakil0911@yahoo.com>
+Description: More about what it does (maybe more than one line)
+License: GPL (>= 2)
+Imports: Rcpp (>= 0.11.6)
+LinkingTo: Rcpp
